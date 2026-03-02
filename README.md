@@ -20,4 +20,4 @@ We offer the **Best AWS Training in Electronic City Bangalore** with SAA-C03 cer
 - Real-time projects
 - Placement guarantee
 
-More details in our [Wiki](https://github.com/emexo2026/emexo-aws-course/wiki).
+More details in our [Wiki](https://github.com/emexo2026/emexo-aws-course/wiki/AWS-Course-Guide).
